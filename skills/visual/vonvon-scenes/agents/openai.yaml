@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vonvon Scenes"
+  short_description: "用 Vonvon 小猫生成真实物件正文场景与长卷故事图"
+  default_prompt: "Use $vonvon-scenes 为这篇中文内容设计并生成 Vonvon 实物场景配图。"
