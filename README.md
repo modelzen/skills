@@ -1,9 +1,5 @@
 # Vonvon Skills
 
-Vonvon 是品牌名，Vonvon 小猫是品牌形象。这个仓库用于开源 Vonvon 日常使用的 Agent Skills。
-
-这个仓库参考 [mattpocock/skills](https://github.com/mattpocock/skills) 的组织方式：每个 skill 保持独立、可组合、可修改，并统一放在 `skills/` 目录下。仓库会持续增加新的 skill。
-
 ## Skills
 
 ### Visual
