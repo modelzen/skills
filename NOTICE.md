@@ -7,7 +7,7 @@ The Vonvon skills in this repository are adaptations of two MIT-licensed project
 
 The upstream projects define the original Xiaohei content-analysis, visual-metaphor, composition, master-selection, prompt, and QA workflows. The recurring character “小黑” is part of Ian's visual language for Chinese article illustrations.
 
-The ModelZen adaptations replace Xiaohei with the Vonvon cat character, add Vonvon-specific identity and action rules, include a Vonvon character reference, and use regenerated Vonvon examples. They are derivative adaptations and are not official releases by Ian.
+The Vonvon adaptations replace Xiaohei with the Vonvon brand character, add Vonvon-specific identity and action rules, include a Vonvon character reference, and use regenerated Vonvon examples. They are derivative adaptations and are not official releases by Ian.
 
 The original upstream copyright and MIT permission notice are retained in this repository's `LICENSE`. Skill-specific attribution is included in each derived skill directory.
 

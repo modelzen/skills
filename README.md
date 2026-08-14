@@ -1,6 +1,6 @@
-# ModelZen Skills
+# Vonvon Skills
 
-ModelZen 日常使用的开源 Agent Skills。
+Vonvon 是品牌名，Vonvon 小猫是品牌形象。这个仓库用于开源 Vonvon 日常使用的 Agent Skills。
 
 这个仓库参考 [mattpocock/skills](https://github.com/mattpocock/skills) 的组织方式：每个 skill 保持独立、可组合、可修改，并统一放在 `skills/` 目录下。仓库会持续增加新的 skill。
 
@@ -10,8 +10,8 @@ ModelZen 日常使用的开源 Agent Skills。
 
 | Skill | 用途 |
 | --- | --- |
-| [`vonvon-illustrations`](./skills/visual/vonvon-illustrations/SKILL.md) | 用 Vonvon 小猫生成 16:9 白底手绘中文正文配图，适合观点、流程、结构、状态和方法论。 |
-| [`vonvon-scenes`](./skills/visual/vonvon-scenes/SKILL.md) | 用 Vonvon 小猫生成“真实物件 + 物理动作”的正文场景图，以及超横版长卷故事图。 |
+| [`vonvon-illustrations`](./skills/visual/vonvon-illustrations/SKILL.md) | 用 Vonvon 品牌形象生成 16:9 白底手绘中文正文配图，适合观点、流程、结构、状态和方法论。 |
+| [`vonvon-scenes`](./skills/visual/vonvon-scenes/SKILL.md) | 用 Vonvon 品牌形象生成“真实物件 + 物理动作”的正文场景图，以及超横版长卷故事图。 |
 
 ## 安装
 
@@ -78,7 +78,7 @@ skills/
 - `vonvon-illustrations` 基于 [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)
 - `vonvon-scenes` 基于 [helloianneo/ian-xiaohei-scenes](https://github.com/helloianneo/ian-xiaohei-scenes)
 
-上游项目采用 MIT License。Vonvon 版本保留了其内容理解、视觉隐喻、母版选择与 QA 工作流的核心思路，并替换为 Vonvon 小猫 IP、角色参考图和重新生成的示例图。这些衍生版本不是 Ian 的官方发布。
+上游项目采用 MIT License。Vonvon 版本保留了其内容理解、视觉隐喻、母版选择与 QA 工作流的核心思路，并替换为 Vonvon 品牌形象、角色参考图和重新生成的示例图。这些衍生版本不是 Ian 的官方发布。
 
 完整归属说明见 [NOTICE.md](./NOTICE.md) 和各 skill 目录内的 `NOTICE.md`。
 

@@ -1,6 +1,6 @@
 ---
 name: vonvon-illustrations
-description: 为中文文章、帖子、博客、Notion 文档、教程、工作流、方法论、流程、结构、状态、隐喻和观点生成 Vonvon 小猫主角的 16:9 白底手绘正文配图。Use when 用户要求 Vonvon 配图、猫猫配图、手绘正文图、文章插图、配图建议、shot list、白板解释图、流程隐喻图，或要编辑这类图片；默认使用 Vonvon 固定 IP、纯白背景、黑色手绘线稿、品牌橙与少量红蓝批注。
+description: 为中文文章、帖子、博客、Notion 文档、教程、工作流、方法论、流程、结构、状态、隐喻和观点生成 Vonvon 品牌形象主角的 16:9 白底手绘正文配图。Use when 用户要求 Vonvon 配图、猫猫配图、手绘正文图、文章插图、配图建议、shot list、白板解释图、流程隐喻图，或要编辑这类图片；默认使用 Vonvon 固定品牌形象、纯白背景、黑色手绘线稿、品牌橙与少量红蓝批注。
 ---
 
 # Vonvon 手绘正文配图
@@ -11,7 +11,7 @@ description: 为中文文章、帖子、博客、Notion 文档、教程、工作
 
 把中文内容里的一个关键判断、流程、结构、状态或隐喻，变成一张清爽、怪诞、可读但不像说明书的手绘解释图。
 
-固定主角是 Vonvon：白色梨形小猫、粗黑轮廓、纯黑圆眼、橙色脸颊与斑块，戴着有连体小猫装饰的宽檐帽。Vonvon 必须亲自承担核心动作，不能只是站在角落里卖萌。
+固定主角是 Vonvon 的品牌形象：白色梨形小猫、粗黑轮廓、纯黑圆眼、橙色脸颊与斑块，戴着有连体小猫装饰的宽檐帽。品牌形象必须亲自承担核心动作，不能只是站在角落里卖萌。
 
 视觉层级必须是“隐喻与动作第一，Vonvon 身份第二”。角色可以可爱，但构图不能以展示吉祥物为目的；先看懂它正在修、推、接、拉什么，再认出这是 Vonvon。
 
@@ -20,7 +20,7 @@ description: 为中文文章、帖子、博客、Notion 文档、教程、工作
 ## 按需读取
 
 - `references/style-dna.md`：画面比例、颜色、文字和禁忌。
-- `references/vonvon-ip.md`：Vonvon 的身份不变量、动作弹性和失败信号。每次生图前必读。
+- `references/vonvon-brand-character.md`：Vonvon 品牌形象的身份不变量、动作弹性和失败信号。每次生图前必读。
 - `references/composition-patterns.md`：结构类型、原创隐喻和反复刻规则。
 - `references/master-selection.md`：八张母版的适用场景与锁定格式。生成前必读。
 - `references/prompt-template.md`：单张生成与局部编辑模板。

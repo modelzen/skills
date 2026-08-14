@@ -1,4 +1,4 @@
 interface:
   display_name: "Vonvon Illustrations"
-  short_description: "用 Vonvon 小猫生成白底手绘中文文章正文配图"
+  short_description: "用 Vonvon 品牌形象生成白底手绘中文文章正文配图"
   default_prompt: "Use $vonvon-illustrations 为这篇中文文章设计并生成 Vonvon 手绘正文配图。"
